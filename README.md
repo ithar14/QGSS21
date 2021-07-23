@@ -41,3 +41,13 @@ In this lab, you will learn how to train circuit-based variational models, using
   * 4-4: Use the SPSA optimizer to find the minimum
 * Natural Gradients
   * Exploratory Exercise: Natural Gradients and Barren Plateaus
+
+## Lab 5 : Hardware Efficient Ansatze for Quantum Machine Learning
+In this lab, you will use quantum process tomography to see how noise affects a typical parameterized quantum circuit used in machine learning.
+
+* 5-1: Build the quantum circuit
+* 5-2: Quantum Process Tomography with only shot noise
+* 5-3: Build a T1/T2 noise model
+* 5-4: Quantum Process Tomography with T1/T2 noise
+* 5-5: Quantum Process Tomography with mitigated T1/T2 noise
+* Exploratory Exercise: Quantum Process Tomography with varying CX gate durations
