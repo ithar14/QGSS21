@@ -1,6 +1,6 @@
 # QGSS21
 Qiskit Global Summer School 2021
-
+![](https://media.discordapp.net/attachments/866843442620923924/867865826731491339/done.jpg?width=805&height=301)
 ## Lab 1 : Quantum Computing Operations and Algorithms
 In this lab, you will learn how to construct quantum states and circuits, and run a simple quantum algorithm. 
 
